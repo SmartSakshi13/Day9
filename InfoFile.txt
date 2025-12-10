@@ -1,0 +1,16 @@
+Python Modules and Packages (Beginner -> Professional)
+
+Modules & Packages are the structure behind all robotics software:
+	1. ROS2 nodes use modules
+	2.Sensor drivers are modules
+	3.Motor controller are packages
+	4.SLAM & Navigation are modular libraries
+
+your robot project will be organized using modules
+
+==== Types of Modules ====
+
+1.Import whole module : import module_name
+2.Import only one function : form module_name import func_name
+3.Import with alias : import module_name as alias_name
+
